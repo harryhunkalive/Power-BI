@@ -1,4 +1,4 @@
-# Power-BI-
+# Power-BI
 power-BI Projects
 
 1 sales 
