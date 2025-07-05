@@ -22,6 +22,7 @@ power-BI Projects
 
 5 UPI 
 
-![image](https://github.com/user-attachments/assets/534b716f-0b06-4385-8959-a9a5dcb108fb)
+![image](https://github.com/user-attachments/assets/aaef4e10-11aa-4fcd-9883-518272965f03)
+
 
 
