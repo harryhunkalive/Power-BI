@@ -25,4 +25,7 @@ power-BI Projects
 ![image](https://github.com/user-attachments/assets/aaef4e10-11aa-4fcd-9883-518272965f03)
 
 
+<img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/77f98a32-701d-4440-a19a-d1e0ee9dabce" />
+
+
 
