@@ -25,7 +25,9 @@ power-BI Projects
 ![image](https://github.com/user-attachments/assets/aaef4e10-11aa-4fcd-9883-518272965f03)
 
 
-<img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/77f98a32-701d-4440-a19a-d1e0ee9dabce" />
+6 Yeild
+<img width="1777" height="984" alt="image" src="https://github.com/user-attachments/assets/df8aff5e-9f7c-4b98-9be8-01393072d6ff" />
+
 
 
 
