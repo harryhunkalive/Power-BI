@@ -29,5 +29,9 @@ power-BI Projects
 <img width="1777" height="984" alt="image" src="https://github.com/user-attachments/assets/df8aff5e-9f7c-4b98-9be8-01393072d6ff" />
 
 
+7 Loan
+<img width="1336" height="703" alt="image" src="https://github.com/user-attachments/assets/cd5bc02c-b034-4a9d-b1e9-365826482518" />
+
+
 
 
